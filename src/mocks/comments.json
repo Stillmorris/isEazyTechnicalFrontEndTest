@@ -1,0 +1,54 @@
+[
+  {
+    "type": "attachment",
+    "data": {
+      "version": 1,
+      "date": "28 dic 2018 / 14:45",
+      "fileName": "2.pdf",
+      "fileSize": "3.8 MB",
+      "docType": "Documento / PDF"
+    }
+  },
+  {
+    "type": "comment",
+    "data": {
+      "isHost": 1,
+      "date": "28 dic 2018 / 14:45",
+      "message": "Buenas tardes, acabo de subir el primer archivo con el primer caso práctico, espero revisión."
+    }
+  },
+  {
+    "type": "comment",
+    "data": {
+      "isHost": 0,
+      "date": "29 dic 2018 / 10:11",
+      "message": "¡Gran trabajo Silvia! Pero creo que deberías revisar el punto 3. Intenta añadir un poco más de contexto y un apartado final de conclusiones personales."
+    }
+  },
+  {
+    "type": "attachment",
+    "data": {
+      "version": 1,
+      "date": "30 dic 2018 / 8:22",
+      "fileName": "2.pdf",
+      "fileSize": "4.8 MB",
+      "docType": "Documento / PDF"
+    }
+  },
+  {
+    "type": "comment",
+    "data": {
+      "isHost": 1,
+      "date": "30 dic 2018 / 8:22",
+      "message": "Realizados los cambios según feedback."
+    }
+  },
+  {
+    "type": "comment",
+    "data": {
+      "isHost": 0,
+      "date": "30 dic 2018 / 16:25",
+      "message": "Perfecto, excelente trabajo."
+    }
+  }
+]
