@@ -1,4 +1,11 @@
 # Prueba técnica FrontEnd para isEazy
+
+Para levantar el proyecto solo es necesario tener instalado node.js y npm/yarn/pnpm.
+
+Ejecutar `yarn dev` en la terminal para levantar la app en modo desarrollo
+> También se puede usar a través de docker levantando el servicio `node` y ejecutando el comando `yarn dev` dentro del container.
+
+---
 La prueba consiste en realizar un pequeño desarrollo a partir de un mock up y una breve definición funcional. 
 Tecnologías librerías a usar:
 -	Vue 3
