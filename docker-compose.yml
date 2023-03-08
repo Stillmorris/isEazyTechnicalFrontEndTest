@@ -1,0 +1,20 @@
+version: '3.7'
+services:
+  frontend:
+    image: node:latest
+    ports:
+      - "8003:5173"
+    container_name: iseazy-technical-test
+    tty: true
+    volumes:
+      - .:/home/www/iseazy-technical-test/
+    working_dir: /home/www/iseazy-technical-test/
+    networks:
+      static-network-iseazy-technical-test:
+        ipv4_address: 172.27.128.1
+
+networks:
+  static-network-iseazy-technical-test:
+    ipam:
+      config:
+        - subnet: 172.27.0.0/16
